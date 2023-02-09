@@ -1,0 +1,1 @@
+# Narcessistic-number
